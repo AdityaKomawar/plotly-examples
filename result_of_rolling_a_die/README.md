@@ -1,4 +1,4 @@
-#Basic Data Visualization using plotly
+# Basic Data Visualization using plotly
 Output of the following code gives d6.html file.
 
 Plot:
